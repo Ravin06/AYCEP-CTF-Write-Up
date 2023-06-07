@@ -22,7 +22,7 @@ contents of your purse into the waiting hands of a beggar
 and lead your party on to the next adventure.
 ```
 
-## Method to Solve
+## Solution
 
 Find all the capital letters and put them together  
 Flag: `YOUSOPOOR`
